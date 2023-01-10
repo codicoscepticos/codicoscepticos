@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codicoscepticos
 - 👀 I’m interested in creative projects.
-- 🌱 I’m currently learning programming.
+- 🌱 I’m currently working full-time as a JavaScript front-end/software developer.
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 How to reach me ...
 
