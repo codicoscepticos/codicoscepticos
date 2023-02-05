@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codicoscepticos
-- 👀 I’m interested in creative projects.
-- 🌱 I’m currently working full-time as a JavaScript front-end/software developer.
-- 💞️ I’m looking to collaborate on creative projects.
+- 👀 I’m interested in Artifical Intelligence and game development.
+- 🌱 I used to work full-time as a JavaScript front-end/software developer for the past 4 years.
+- 💞️ I’m looking to collaborate on innovative and creative projects.
 - 📫 How to reach me ...
 
 <!---
