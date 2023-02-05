@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codicoscepticos
 - 👀 I’m interested in Artifical Intelligence and game development.
-- 🌱 I used to work full-time as a JavaScript front-end/software developer for the past 4 years.
+- 🌱 I used to work full-time as a JavaScript front-end/software developer for 4 years in the past.
 - 💞️ I’m looking to collaborate on innovative and creative projects.
 - 📫 How to reach me ...
 
